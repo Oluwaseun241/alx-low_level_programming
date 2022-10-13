@@ -8,10 +8,10 @@
 
 int main(void)
 {
-printf("size of a char: %Id byte(s)\n", size(char));
-printf("size of an int: %Id byte(s)\n", size(int));
-printf("size of a long int: %Id byte(s)\n", sizeof(long int));
-printf("size of a long long  int: %Id byte(s)\n", sizeof(long long int));
-printf("size of a fload: %Id byte(s)\n", sizeof(float));
+printf("Size of a char: %Id byte(s)\n", size(char));
+printf("Size of an int: %Id byte(s)\n", size(int));
+printf("Size of a long int: %Id byte(s)\n", sizeof(long int));
+printf("Size of a long long  int: %Id byte(s)\n", sizeof(long long int));
+printf("Size of a float: %Id byte(s)\n", sizeof(float));
 return (0);
 }
