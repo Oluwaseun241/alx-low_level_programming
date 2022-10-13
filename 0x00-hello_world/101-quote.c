@@ -2,7 +2,7 @@
 /**
  * main - outouts to string
  *
- * Description: Prints out "and that piece of art is useful...." without printf
+ * Description: Prints out "and that piece of art is useful..." without printf
  *
  * Return: 1
  */
